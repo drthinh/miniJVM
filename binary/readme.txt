@@ -1,4 +1,4 @@
-  It's the binary release here.
+  It's binary release .
   
   mini_jvm only need 2 files :
   binary:  mini_jvm.exe or mini_jvm   
